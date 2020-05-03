@@ -13,3 +13,4 @@ http://webmagic.io
 
 https://github.com/9526xu/douban_spider
 
+https://mp.weixin.qq.com/s/8PiS8qqBFcl7xq5_R1SDTg
